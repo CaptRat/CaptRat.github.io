@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: jpatricklogan@gmail.com
 copyright_name: CaptRat
 description: > # this means to ignore newlines until "baseurl:"
-  Sailing into the mystical binary world
+  Traveling into the mystical binary world
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  CaptRat
