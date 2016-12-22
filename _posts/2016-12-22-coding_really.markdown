@@ -14,12 +14,11 @@ I assumed it wouldn't be that hard, especially if I earnestly\* committed to 520
 
 Though I completed all the prep work, and arranged my life to commit to the 11 weeks, I dropped out after 2 anxiety-filled weeks.  I was definitely *not* prepared.
 
-After uncovering a disorienting truth about code - there are excesses of concepts and languages and frameworks, etc! - a better question might be why do I continue? 
-I like Flatiron's frank admission, right in the first paragraphs but throughout the curriculum, social media content and interviews, that learning code is very hard, at first.  
-I like the collaboration of this program's community.  I've found self-teaching to be tremendously solitary and believe this is a better way, for me.  I'm old school enough to want the traditional back&forth of a lively topic rippling through a cohort and inspiring discourse.  
+After uncovering a disorienting truth about code - there are excesses of concepts and languages and frameworks, etc! - a better question is why do I continue?
+I like Flatiron's frank admission, right in the first paragraphs but throughout the curriculum, social media content and interviews, that learning code is very hard, at first.
 
-Learning the esoteric logic of code is terribly hard, and coding alone is still harder.  It's discouraging, and deflating, to not know how to look up to find answers because I don't know exactly how I am stuck. That's what stuck is!  
-That's where colleagues are so helpful.  There are lots of folks, having the same confusions and feeling the same embarassment and ... feeling just as stupid and incapable at times.
+I like the collaboration of this program's community.  I've found self-teaching to be tremendously solitary and believe this is a better way, for me.  I'm old school enough to want the traditional back&forth of a lively topic rippling through a cohort and inspiring discourse.  Learning the esoteric logic of code is terribly hard, and coding alone is still harder.  It's discouraging, and deflating, to not know how to look up to find answers because I don't know exactly how I am stuck. That's what stuck is!  
+That's where colleagues are so helpful to me.  There are lots of folks in my boat, having the same confusions and feeling the same embarassment and ... feeling just as stupid and incapable at times.  There are rare but satisfying times I can help them, too.
 
 So thank you, "community" and please continue to strike up conversations and offer tips, slightly-relevant distractions and camaraderie on our journey.
 
