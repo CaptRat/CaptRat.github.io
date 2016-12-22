@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Coding?  Really?!"
-date:   2016-12-22 03:23:55 +0000
+date:   2016-12-21 22:23:55 -0500
 ---
 
 
 At the granular level, how I came to Programming was, as they say, my choice but that doesn't mean I consciously directed my life to crescendo, at this moment, at this particular juncture.  Instead, I just arrived here, at the intersection of serendipity and inclination.
 
-After college+, I traveled and worked 6-12 month jobs overseas for a few years, before landing back in Florida, to help with Outward Bound's adjudicated-youth program.   I loved the program but after a hurricane, mosquitos, less than 300' of state topography and 18 months of canoe convoys down the tea-colored Suwanee, Withlacoochee, St. Johns and Georgia's Altamaha, I did not grow any fonder of the Sunshine State. [](http://http://i.imgur.com/K25jXue.jpg)So, that experience directed me westward, to 15 years of "wilderness therapy" (which is the wealthier kid's version of Project STEP), instructing, field directing and finally marketing the program I helped build, but didn't own.  When that company unwound and my job as "company mascot" evaporated, I found myself anxiously adrift, and quickly committed to "retooling" for another long career!
+After college+, I traveled and worked 6-12 month jobs overseas for a few years, before landing back in Florida, to help with Outward Bound's adjudicated-youth program.   I loved the program but after a hurricane, mosquitos, less than 300' of state topography and 18 months of canoe convoys down the tea-colored Suwanee, Withlacoochee, St. Johns and Georgia's Altamaha, I did not grow any fonder of the Sunshine State. ![](http://http://i.imgur.com/K25jXue.jpg)So, that experience directed me westward, to 15 years of "wilderness therapy" (which is the wealthier kid's version of Project STEP), instructing, field directing and finally marketing the program I helped build, but didn't own.  When that company unwound and my job as "company mascot" evaporated, I found myself anxiously adrift, and quickly committed to "retooling" for another long career!
 
 That's why I decided to learn software development.  To be totally honest, I actually fell for the garish parade of unscrupulous marketing that one "can learn coding in 3 months" and "make 6 figures starting out, maybe even with Google or Facebook!"  I'm relatively smart, and I like computers' certainty and after 15 years living in the greys of therapeutic programs, I wanted the concrete clarity of digital certainty. Plus, the knowledge and confidence that jobs are waiting *is* enticing.  I assumed it wouldn't be that hard, especially if I earnestly\* committed to 520 hours of mentored learning!
 
