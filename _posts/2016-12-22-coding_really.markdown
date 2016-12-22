@@ -19,5 +19,5 @@ My path seems less steep and the views are more inspiring, when there are laughi
 So thank you, "community" and please continue to strike up conversations and offer tips, slightly-relevant distractions and camaraderie on our journey.
 
 
-\* awesome synonym for "seriously", huh?
+\* *underutilized synonym for "seriously"*
 
