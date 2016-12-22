@@ -28,9 +28,9 @@ And there’s 1% of happiness.”*
 
 I just completed another Code Camp, a much more conventional overview of web development coding.  It was gratifying, and the milieu and instruction was, primarily, designed around being supportive.  We met once a week, and followed an online WebDev course.
 
-I just finished my first major project a month ago, collaborating with a fellow student.  Though we are nowhere near Developers, this time - unlike “amateurs” - we were paid for our time.  And we hope to find more projects.
+I just finished my first major project a month ago, collaborating with a fellow student.  Though we are nowhere near Developers, this time - unlike “amateurs” - we were paid for our time, to make a small-business website responsive.  We practiced what we were taught, and had to learn a ton more, in a real-world setting.  
 
-We practiced what we were taught, and had to learn a ton more, in a real-world setting.  I must confess that like Saron Yitbarek, success produces a terribly fleeting sense of competence and happiness.
+Like Saron Yitbarek said, our success produced a terribly fleeting sense of competence and happiness.
 
 But … it also includes creating a website.  
 
