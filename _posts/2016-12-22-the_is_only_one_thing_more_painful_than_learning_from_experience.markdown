@@ -11,7 +11,7 @@ I’ve been trying to teach myself coding for a while now, and the convention hi
 I started a 12 week (fulltime) “full-stack boot camp” in May. I’d done the prep work required and paid my hefty tuition and was excited to be educated, naively expecting to learn years of wisdom much the same way Neo learns jui-jitsu.  
 
 Here was my experience of moving from "preparation" to the course:
-![](http://i.imgur.com/szBJzWK.jpg)
+![](http://i.imgur.com/szBJzWKh.jpg)
 
 I found the experience enlightening, but not for the expected reasons; I quit after 2 weeks, having assured myself that I was totally unprepared and incapable of assimilating that intensity of novel, complex and cumulative information each day for another 10 weeks.
 
