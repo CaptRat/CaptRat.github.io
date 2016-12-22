@@ -12,7 +12,7 @@ After college+, I traveled and worked 6-12 month jobs overseas for a few years, 
 That's why I decided to learn software development.  To be totally honest, I actually fell for the garish parade of unscrupulous marketing that one "can learn coding in 3 months" and "make 6 figures starting out, maybe even with Google or Facebook!"  I'm relatively smart, and I like computers' digital decisiveness; after 15 years living in the greys of therapeutic programs, I wanted the concrete clarity of binary certainty. Plus, the knowledge and confidence that jobs are waiting *is* enticing.  
 I assumed it wouldn't be that hard, especially if I earnestly\* committed to 520 hours of mentored learning!
 
-Though I completed all the prep work, and arranged my life to commit to the 11 weeks, I dropped out after 2 weeks.  I was definitely *not* prepared.
+Though I completed all the prep work, and arranged my life to commit to the 11 weeks, I dropped out after 2 anxiety-filled weeks.  I was definitely *not* prepared.
 
 After discovering a truth about code - it's absolutely baffling and there are libraries of concepts and languages and frameworks, etc! - a better question might be why do I continue? 
 I like Flatiron's frank admission, right in the first paragraphs but throughout the curriculum, social media content and interviews, that learning code is very hard, at first.  
