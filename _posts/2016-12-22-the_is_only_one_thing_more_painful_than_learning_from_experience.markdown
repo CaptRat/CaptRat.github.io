@@ -7,7 +7,7 @@ date:   2016-12-22 15:02:42 -0500
 is not learning from experience." (Archibald McLeish)
 
 Want someone with more gravitas?  
-![](http://i.imgur.com/RHKI5izs.jpg)
+![](http://i.imgur.com/RHKI5izl.jpg)
 
 I’ve been trying to teach myself coding for a while now, and the convention historically has been to major at college and to complete a Computer Science degree, then get a job.  The new disrupter for IT professionals is using online schools, “bootcamps” or even becoming self-taught.  I’ve tried each of these, and presently I’m self-teaching again.
 
