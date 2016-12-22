@@ -5,7 +5,7 @@ date:   2016-12-21 22:23:55 -0500
 ---
 
 
-At the granular level, how I came to Programming was, as they say, my choice but that doesn't mean I consciously directed my life to crescendo, at this moment, at this particular juncture.  Instead, I just arrived here, at the intersection of serendipity and inclination.
+At the granular level, how I came to Programming was, as they say, my *choice* but that doesn't mean I consciously directed my life to crescendo, at this moment, at this particular juncture.  Instead, I just arrived here, at the intersection of serendipity and inclination.
 
 After college+, I traveled and worked 6-12 month jobs overseas for a few years, before landing back in Florida, to help with Outward Bound's adjudicated-youth program.   I loved the program but after a hurricane, mosquitos, less than 300' of state topography and 18 months of canoe convoys down the tea-colored Suwanee, Withlacoochee, St. Johns and Georgia's Altamaha, I did not grow any fonder of the Sunshine State. ![](http://i.imgur.com/K25jXue.jpg)So, that experience directed me westward, to 15 years of "wilderness therapy" (which is the wealthier kid's version of Project STEP), instructing, field directing and finally marketing the program I helped build, but didn't own.  When that company unwound and my job as "company mascot" evaporated, I found myself anxiously adrift, and quickly committed to "retooling" for another long career!
 
