@@ -24,7 +24,7 @@ And then it feels obvious.*
 9% is spent feeling like “oh, obviously.”
 And there’s 1% of happiness.”*
 
-Saron Yitbarek, founder of CodeNewbie (http://learntocodewith.me/podcast/coding-bootcamp-to-microsoft-with-saron-yitbarek/)
+*Saron Yitbarek, founder of CodeNewbie (http://learntocodewith.me/podcast/coding-bootcamp-to-microsoft-with-saron-yitbarek/)*
 
 I just completed another Code Camp, a much more conventional overview of web development coding.  It was gratifying, and the milieu and instruction was, primarily, designed around being supportive.  We met once a week, and followed an online WebDev course.
 
