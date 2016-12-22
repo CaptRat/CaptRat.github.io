@@ -16,7 +16,7 @@ After discovering a truth about code - it's absolutely baffling! - a better ques
 I like Flatiron's frank admission, right in the first paragraphs but throughout the curriculum, social media content and interviews, that learning code is very hard, at first.  
 I like the collaboration of this program's community.  I've found self-teaching to be tremendously solitary and believe this is a better way, for me.  I'm old school enough to want the traditional back&forth of a lively topic rippling through a cohort and inspiring discourse.  
 
-I think coding is much harder alone.  It's hard to know where to find answers if one doesn't know exactly how one is stuck  That's where colleagues are so helpful.
+I think coding is much harder alone.  It's hard, and discouraging, to not know where to find answers because I don't know exactly how I am stuck. That's what stuck is!   That's where colleagues are so helpful.
 
 So thank you, "community" and please continue to strike up conversations and offer tips, slightly-relevant distractions and camaraderie on our journey.
 
