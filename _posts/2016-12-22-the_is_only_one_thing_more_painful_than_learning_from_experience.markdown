@@ -29,7 +29,7 @@ And then it feels obvious.*
 9% is spent feeling like 'oh. Obviously.'
 And there’s 1% of happiness.”*
 
-*Saron Yitbarek, founder of CodeNewbie.org
+*Saron Yitbarek, founder of CodeNewbie.org*
 
 I finished my first major project a month ago, collaborating with a fellow student.  Though we are nowhere near Developers, this time - unlike “amateurs” - we were paid for our time, to make a small-business website responsive.  We practiced what we were taught, and had to learn a ton more, in a real-world setting.  
 
