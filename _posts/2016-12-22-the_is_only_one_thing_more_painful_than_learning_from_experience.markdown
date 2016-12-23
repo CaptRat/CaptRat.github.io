@@ -16,7 +16,7 @@ Here was my experience of moving from "preparation" to the actual full-time cour
 Let's summarize that I found the experience enlightening. I quit after 2 weeks, having assured myself that I was totally unprepared and incapable of assimilating that intensity of novel, complex and cumulative information each day for another 10 weeks.
 
 
-I completed a Code Camp in September, a much more conventional overview of web development coding.  It was gratifying, and the milieu and instruction was, primarily, designed around being supportive.  We met once a week for 3 months, and followed an online WebDev course curriculum.  It was entirely different than the bootcamp.
+Following that agitation, I completed a Code Camp in September, a much more conventional overview of web development coding.  It was gratifying, and the milieu and instruction was, primarily, designed around being supportive.  We met once a week for 3 months, and followed an online WebDev course curriculum.  It was entirely different than the bootcamp.
 
 So now I have radically different perspectives, but I do have one unifying opinion:
 
