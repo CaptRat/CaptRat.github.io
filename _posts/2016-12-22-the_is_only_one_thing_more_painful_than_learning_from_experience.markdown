@@ -26,7 +26,7 @@ And then it feels obvious.*
 
 *I feel like there’s a very small amount of time, maybe like 5 seconds, where you feel good about it.
 90% of it is spent where you feel angry, and stupid.
-9% is spent feeling like “oh, obviously.”
+9% is spent feeling like 'oh. Obviously.'
 And there’s 1% of happiness.”*
 
 *Saron Yitbarek, founder of CodeNewbie.org
