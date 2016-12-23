@@ -16,7 +16,7 @@ Here was my experience of moving from "preparation" to the actual full-time cour
 I found the experience enlightening, but not for the expected reasons; I quit after 2 weeks, having assured myself that I was totally unprepared and incapable of assimilating that intensity of novel, complex and cumulative information each day for another 10 weeks.
 
 
-I just completed another Code Camp, a much more conventional overview of web development coding.  It was gratifying, and the milieu and instruction was, primarily, designed around being supportive.  We met once a week, and followed an online WebDev course.
+I just completed another Code Camp in September, a much more conventional overview of web development coding.  It was gratifying, and the milieu and instruction was, primarily, designed around being supportive.  We met once a week, and followed an online WebDev course curriculum.  It was entirely different than the bootcamp.
 
 *“… The thing that I think is the most frustrating about programming is you battle with a concept or feature or tool for a long time, and while you’re battling, it feels like you’re never gonna get it.
 And then you get it. 
@@ -29,9 +29,9 @@ And there’s 1% of happiness.”*
 
 *Saron Yitbarek, founder of CodeNewbie (http://learntocodewith.me/podcast/coding-bootcamp-to-microsoft-with-saron-yitbarek/)*
 
-I just finished my first major project a month ago, collaborating with a fellow student.  Though we are nowhere near Developers, this time - unlike “amateurs” - we were paid for our time, to make a small-business website responsive.  We practiced what we were taught, and had to learn a ton more, in a real-world setting.  
+I finished my first major project a month ago, collaborating with a fellow student.  Though we are nowhere near Developers, this time - unlike “amateurs” - we were paid for our time, to make a small-business website responsive.  We practiced what we were taught, and had to learn a ton more, in a real-world setting.  
 
-Like Saron Yitbarek said, our success produced a terribly fleeting sense of competence and happiness.
+Like Saron Yitbarek said, our success did produce that terribly fleeting sense of competence and happiness.
 
 But … it also includes creating a website.  
 
