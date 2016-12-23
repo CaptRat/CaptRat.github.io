@@ -18,6 +18,8 @@ I found the experience enlightening, but not for the expected reasons; I quit af
 
 I completed a Code Camp in September, a much more conventional overview of web development coding.  It was gratifying, and the milieu and instruction was, primarily, designed around being supportive.  We met once a week for 3 months, and followed an online WebDev course curriculum.  It was entirely different than the bootcamp.
 
+So now I have radically different perspectives, but I do have one unifying opinion:
+
 *“… The thing that I think is the most frustrating about programming is you battle with a concept or feature or tool for a long time, and while you’re battling, it feels like you’re never gonna get it.
 And then you get it. 
 And then it feels obvious.*
