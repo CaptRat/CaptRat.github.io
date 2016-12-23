@@ -8,7 +8,7 @@ is not learning from experience." (Archibald McLeish)
 
 I’ve been trying to teach myself coding for a while now, and the convention historically has been to major in Computer Science, then get a job.  The new disrupter for IT aspirants is completing online schools, “bootcamps” or even becoming self-taught.  I’ve tried each of these, and presently I’m self-teaching, when I can't make headway on this platform.
 
-This ain't my first rodeo.  I started a 12 week (fulltime) “full-stack boot camp” in May. I’d done the prep work required and paid my hefty tuition and was excited to be educated, naively expecting to learn years of wisdom much the same way Neo learns jui-jitsu.  
+And this ain't my first toe in the water.  I started a 12 week (fulltime) “full-stack boot camp” in May. I’d done the prep work required and paid my hefty tuition and was excited to be educated, naively expecting to learn years of wisdom much the same way Neo learns jui-jitsu.  
 
 Here was my experience of moving from "preparation" to the actual full-time course:
 ![](http://i.imgur.com/szBJzWK.jpg)
