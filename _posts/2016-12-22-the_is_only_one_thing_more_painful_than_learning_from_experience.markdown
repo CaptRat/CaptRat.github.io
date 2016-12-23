@@ -29,7 +29,7 @@ And then it feels obvious.*
 9% is spent feeling like “oh, obviously.”
 And there’s 1% of happiness.”*
 
-*Saron Yitbarek, founder of CodeNewbie (http://learntocodewith.me/podcast/coding-bootcamp-to-microsoft-with-saron-yitbarek/)*
+*Saron Yitbarek, founder of CodeNewbie.org
 
 I finished my first major project a month ago, collaborating with a fellow student.  Though we are nowhere near Developers, this time - unlike “amateurs” - we were paid for our time, to make a small-business website responsive.  We practiced what we were taught, and had to learn a ton more, in a real-world setting.  
 
