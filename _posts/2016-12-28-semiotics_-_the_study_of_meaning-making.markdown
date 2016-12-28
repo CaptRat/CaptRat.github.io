@@ -12,5 +12,5 @@ Now that I’ve spent considerable time under the surface of coding watching onl
 
    ![](http://i.imgur.com/Uveul9k.jpg)
 
-Javascript and Error messages and testing scripts – these remain advanced Greek to me - a dogmatic and confusing series of words whose precision lays in ambush, beyond my ability.  I think code is like Trump, just providing "Wrong!" without helping me to understand.  The lack of collaboration, code’s esoteric quality and the vast, vast world of required background information, makes fluency still seem nearly impossible.
+Javascript and Error messages and testing scripts – these remain advanced Greek to me - a dogmatic and confusing series of words whose precision lays in ambush, beyond my ability.  I think code is like Trump, just needling me with "Wrong!  Wrong!" without helping me to understand.  The lack of collaboration, code’s esoteric quality and the vast, vast world of required background information, makes fluency still seem nearly impossible.
 
