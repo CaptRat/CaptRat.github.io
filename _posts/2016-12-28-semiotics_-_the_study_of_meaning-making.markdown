@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Semiotics - the study of meaning-making"
-date:   2016-12-28 17:10:23 +0000
+date:   2016-12-28 12:10:23 -0500
 ---
 
 
