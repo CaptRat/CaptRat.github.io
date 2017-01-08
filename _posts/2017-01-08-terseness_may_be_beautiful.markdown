@@ -17,4 +17,4 @@ Perhaps.  I hope so.
 
 At another point, he said that programmers see terseness as beautiful.  I understand what Drew means, and I want to eventually acquire the ability to be terse, and write beautiful code.
 
-Right now, I'm still staring at next huge black monoliths that appear on every page, wondering WTF.
+Right now, I'm still staring at the next huge black monoliths that appear on every page, wondering WTF.
