@@ -15,8 +15,8 @@ At one point during the next 4 (FOUR!) hours of mentoring, of gently guiding me 
 
 Perhaps.  I hope so.  
 
-At another point, he said that programmers see terseness as beautiful.  I understand what Drew means, and I want to eventually acquire the ability to be terse, and write beautiful code.
+At another point, he said that programmers see terseness as beautiful.  I understand what Drew means, and I want to eventually acquire the ability to be terse, and write beautiful code.  Right now, I'm still staring at the next huge black monoliths that appear on every page, wondering WTF.  
 
-Right now, I'm still staring at the next huge black monoliths that appear on every page, wondering WTF.  
+I feel exhausted.  I stare at my pastel and jagged Ruby code. 
 
-Despite an exhaustion that occurs as I stare at my pastel and jagged Ruby code, I am not climbing a mountain, to reach a summit called Competence. Instead, when I look back, I can see that I am erratically pressing into an infinite darkness. And I very gratefully acknowledge I couldn’t have come this far without mentors - who can see in the dark.
+After a few hours, when I look back, I can see that I am erratically pressing into an infinite darkness. And I very gratefully acknowledge I couldn’t have come this far without mentors - who can see in the dark.
