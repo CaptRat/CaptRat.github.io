@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Terseness may be beautiful "
-date:   2017-01-08 12:46:47 +0000
+date:   2017-01-08 07:46:47 -0500
 ---
 
 
@@ -11,7 +11,7 @@ At one point during the 4 (FOUR!) hours of mentoring, Drew commented that I coul
 
 "You think the solution is way more complex than it is sometimes. It's simple simple."
 
-![](http://i.imgur.com/PVHC1qu.gifv)
+![](http://i.imgur.com/PVHC1qu.gif)
 
 Perhaps.  I hope so.  
 
