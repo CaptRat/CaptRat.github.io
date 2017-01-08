@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Terseness may be beautiful "
+title:  "Terseness May Be Beautiful "
 date:   2017-01-08 07:46:47 -0500
 ---
 
